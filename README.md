@@ -63,6 +63,29 @@ The system also calculates and displays estimated energy savings on an LCD scree
 
 ---
 
+## Custom 3D Printed Enclosure
+
+To improve the functionality and presentation of WattWise, a custom key-hanger enclosure was designed and manufactured using 3D printing technology. The enclosure was modeled using SolidWorks and Autodesk Fusion 360 before being 3D printed and assembled with the electronic components.
+
+The design was created to securely house the Arduino Uno, RTC module, LCD display, wiring, LED, and DC fan while maintaining a clean and professional appearance. This allowed the project to combine embedded systems, electronics, and mechanical design into a single product prototype.
+
+### Design Tools Used
+
+* SolidWorks
+* Autodesk Fusion 360
+* 3D Printing Technology
+
+### Skills Demonstrated
+
+* CAD Modeling
+* 3D Design
+* 3D Printing
+* Product Prototyping
+* Embedded Systems
+* Electronics Integration
+* Arduino Programming
+
+
 ## Skills Gained
 
 * Arduino Programming
